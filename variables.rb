@@ -7,3 +7,6 @@ amt_arms = 2
 
 happiness_rating = 10.0
 cost_banana = 0.99
+
+hungry = false
+ate_a_banana = true
