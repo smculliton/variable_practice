@@ -10,3 +10,9 @@ cost_banana = 0.99
 
 hungry = false
 ate_a_banana = true
+
+name = "Anti-Sean"
+job = "funemployed"
+
+puts name
+puts job
